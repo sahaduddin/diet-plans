@@ -53,9 +53,9 @@ qr-diet-plan/
 ---
 
 ## 👨‍💻 Author
-**Amit**  
+**Sahaduddin**  
 - 🎓 MCA | DCA | Frontend Developer  
-- 💻 Skills: Angular 14, Angular Material, TypeScript, SQL  
+- 💻 Skills: Angular 9, Angular 10, Angular 14, Angular 17, Angular Material, TypeScript, SQL  
 - 🌱 Exploring AI-powered dev tools (Vibe Coding, Cursor, Windsurf, Google AI Studio)  
 - 🧘 Meditation lover  
 
