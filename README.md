@@ -48,7 +48,7 @@ qr-diet-plan/
 ## 📸 Demo (Phase 1)
 👉 Scan the sample QR code below to open a diet plan:  
 
-![QR Code Demo](qr-codes/sample-qr.png)
+![QR Code Demo](https://raw.githubusercontent.com/sahaduddin/diet-plans/main/gastric_diet_plan.png)
 
 ---
 
